@@ -35,14 +35,27 @@
 
 ## PROJECT STRUCTURE
 
-### Documentation Files
+### Root Level Files (Important!)
+- **[README.md](README.md)** - 📖 Project overview and navigation (start here for newcomers)
 - **[project-memory.md](project-memory.md)** - 🧠 **YOUR MEMORY** - Current project state, progress, decisions (READ THIS FIRST!)
 - **[claude.md](claude.md)** - Instructions for Claude (this file)
-- **[immersive_webpages.md](immersive_webpages.md)** - Original vision document (brainstorm from Oct 2025)
-- **[FABIO-ROADMAP-AND-STRATEGY.md](FABIO-ROADMAP-AND-STRATEGY.md)** - ⭐ **MASTER PLAN** - Fabio's actual business roadmap
-- **[EPIC-MEGAGRANTS-PROJECT-PLAN.md](EPIC-MEGAGRANTS-PROJECT-PLAN.md)** - 6-month plan, budget, team structure
-- **[NATURA-DEMO-SPECIFICATION.md](NATURA-DEMO-SPECIFICATION.md)** - Ultra-detailed technical spec for Natura demo
-- **[EPIC-MEGAGRANTS-SUBMISSION-CHECKLIST.md](EPIC-MEGAGRANTS-SUBMISSION-CHECKLIST.md)** - Application submission guide
+
+### Documentation Folder (`/docs`)
+- **[docs/PRD.md](docs/PRD.md)** - 📋 **PRODUCT REQUIREMENTS** - Comprehensive product specification
+- **[docs/VISION.md](docs/VISION.md)** - 💡 Original vision document (brainstorm from Oct 2025)
+- **[docs/FABIO-ROADMAP-AND-STRATEGY.md](docs/FABIO-ROADMAP-AND-STRATEGY.md)** - ⭐ **MASTER PLAN** - Complete 7-phase business roadmap
+- **[docs/EPIC-MEGAGRANTS-PROJECT-PLAN.md](docs/EPIC-MEGAGRANTS-PROJECT-PLAN.md)** - 6-month plan, budget, team structure
+- **[docs/NATURA-DEMO-SPECIFICATION.md](docs/NATURA-DEMO-SPECIFICATION.md)** - Ultra-detailed technical spec for Natura demo
+- **[docs/EPIC-MEGAGRANTS-SUBMISSION-CHECKLIST.md](docs/EPIC-MEGAGRANTS-SUBMISSION-CHECKLIST.md)** - Application submission guide
+
+### Folder Structure
+- **/docs** - All documentation files
+- **/scripts** - Utility scripts (empty for now)
+- **/assets** - Images, mockups, design files
+  - **/assets/images** - Image assets
+  - **/assets/mockups** - Design mockups
+- **/.vibecoding** - MAESTRO multi-agent system protocols
+- **/.claude** - Claude Code settings
 
 ### Key References
 - **.vibecoding/Informations/product.md** - Product Requirements Document template

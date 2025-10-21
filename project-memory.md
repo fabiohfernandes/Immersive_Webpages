@@ -1,9 +1,9 @@
 # PROJECT MEMORY - IMMERSIVE WEBPAGES
 🧠 **Claude's Memory File** - Read this FIRST at every new session/chat/interaction
 
-**Last Updated:** 2025-01-21 (Phase 6 & 7 Added)
+**Last Updated:** 2025-01-21 (Repository Organized)
 **Project Status:** Pre-Application Phase - Epic MegaGrants
-**Current Phase:** Phase 0 - Documentation & Preparation
+**Current Phase:** Phase 0 - Documentation & Preparation ✅ COMPLETE
 
 ---
 
@@ -22,16 +22,25 @@
 ## 📊 CURRENT PROJECT STATE
 
 ### What EXISTS Right Now:
-✅ **Complete Documentation Package:**
-- immersive_webpages.md (original vision - Oct 2025 brainstorm)
-- FABIO-ROADMAP-AND-STRATEGY.md (master business plan)
-- EPIC-MEGAGRANTS-PROJECT-PLAN.md (6-month technical plan)
-- NATURA-DEMO-SPECIFICATION.md (ultra-detailed demo spec)
-- EPIC-MEGAGRANTS-SUBMISSION-CHECKLIST.md (application guide)
-- claude.md (Claude instructions)
-- project-memory.md (this file - your memory!)
+✅ **Complete Documentation Package** (organized in `/docs` folder):
+- README.md (project overview and navigation)
+- docs/PRD.md (Product Requirements Document - comprehensive)
+- docs/VISION.md (original vision - Oct 2025 brainstorm)
+- docs/FABIO-ROADMAP-AND-STRATEGY.md (master business plan - 7 phases)
+- docs/EPIC-MEGAGRANTS-PROJECT-PLAN.md (6-month technical plan)
+- docs/NATURA-DEMO-SPECIFICATION.md (ultra-detailed demo spec)
+- docs/EPIC-MEGAGRANTS-SUBMISSION-CHECKLIST.md (application guide)
+- claude.md (Claude instructions - root level)
+- project-memory.md (this file - your memory! - root level)
 
-✅ **.vibecoding folder structure** with MAESTRO protocols and guidelines
+✅ **Repository Structure:**
+- `/docs` - All documentation files
+- `/scripts` - Utility scripts (empty for now)
+- `/assets` - Images, mockups (with subfolders)
+- `/.vibecoding` - MAESTRO multi-agent system protocols
+- `/.claude` - Claude Code settings
+
+✅ **GitHub Repository:** https://github.com/fabiohfernandes/Immersive_Webpages
 
 ### What DOESN'T Exist Yet:
 ❌ Natura demo (not built yet)
@@ -363,19 +372,64 @@ Frame rendered & streamed back
 - We focus on CONTENT creation, partners handle INFRASTRUCTURE
 - Epic Fab marketplace = Massive distribution channel
 
+### Session: 2025-01-21 (Part 4) - REPOSITORY REORGANIZATION
+**Organization Update:**
+- ✅ Created folder structure: `/docs`, `/scripts`, `/assets`
+- ✅ Created comprehensive PRD (Product Requirements Document)
+- ✅ Moved all documentation files to `/docs` folder
+- ✅ Renamed `immersive_webpages.md` → `docs/VISION.md` (clearer naming)
+- ✅ Created root `README.md` (navigation and project overview)
+- ✅ Updated `project-memory.md` with new structure
+- ✅ Preparing to commit all changes to GitHub
+
+**New Repository Structure:**
+```
+Immersive_Webpages/
+├── docs/                    # All documentation
+│   ├── PRD.md              # Product Requirements Document (NEW!)
+│   ├── VISION.md           # Original vision (renamed from immersive_webpages.md)
+│   ├── FABIO-ROADMAP-AND-STRATEGY.md
+│   ├── EPIC-MEGAGRANTS-PROJECT-PLAN.md
+│   ├── NATURA-DEMO-SPECIFICATION.md
+│   └── EPIC-MEGAGRANTS-SUBMISSION-CHECKLIST.md
+├── scripts/                # Utility scripts (empty for now)
+├── assets/                 # Images, mockups
+│   ├── images/
+│   └── mockups/
+├── README.md               # Main navigation (NEW!)
+├── claude.md               # Claude AI instructions
+└── project-memory.md       # AI memory (this file)
+```
+
+**Key Documents Created:**
+- **README.md:** Complete project overview, 7-phase plan, team info, links
+- **docs/PRD.md:** 25,000+ word comprehensive Product Requirements Document
+  - Executive summary, product overview, target users
+  - Core features (all 7 phases)
+  - Technical specifications
+  - Business requirements, pricing, revenue projections
+  - Competitive analysis, risks & mitigation
+  - Development roadmap, success criteria
+
+**Benefits:**
+- Clean organization (docs separated from root)
+- Professional structure (standard for GitHub projects)
+- Easy navigation (README.md as main entry point)
+- Scalable (folders ready for future assets/scripts)
+- Clear documentation hierarchy
+
 **Decisions Made:**
-- project-memory.md becomes source of truth for current state
-- Claude must read this file at EVERY new session start
-- Updates required after: major tasks, problem resolutions, milestones
-- Decision 3 updated: Hosting partnerships (not direct infrastructure)
+- All documentation lives in `/docs` folder
+- Root level: README.md, claude.md, project-memory.md only
+- PRD is now source of truth for product requirements
+- VISION.md preserves original brainstorm
+- FABIO-ROADMAP remains master business plan
 
-**Questions for Fabio:**
-- None at this time (roadmap expansion complete)
-
-**Next Session Should Start With:**
-1. User specifies what to work on next (demo? video? application?)
-2. Claude reads this file first to load context
-3. Proceed with clear understanding of current state
+**Next Steps:**
+1. Commit repository reorganization to Git
+2. Push all changes to GitHub
+3. Phase 0 officially COMPLETE ✅
+4. Ready to move to Phase 1 (Build Natura Demo)
 
 ---
 
