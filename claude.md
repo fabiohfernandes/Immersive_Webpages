@@ -80,26 +80,16 @@ This is the ACTUAL sequence Fabio is following - ALWAYS reference this:
 - Pricing: R$200k-3M/year per client
 - Target: R$6M-10M/year revenue
 
-### Phase 5: Decentralized Pixel Streaming Hosting (Year 2-3)
-- **SECRET WEAPON:** Network of PS5 machines (R$177/month vs AWS R$2,820/month!)
-- 10X cost advantage = competitive moat
-- Charge clients R$5k-50k/month for managed hosting
-- 97% profit margins!
-
-### Phase 6: Free Template + Hosting Platform (Year 3)
+### Phase 5: Free Template + Premium Marketplace (Year 3)
 - Open-source basic template (GitHub, MIT license)
-- Freemium model: Free template → Paid hosting
-- Platform: "Immersive Webpages Cloud"
-- Pricing: R$500-50k/month based on usage
-- Target: R$7.5M/year from hosting alone
-
-### Phase 7: Premium Templates + Marketplace (Year 3-4)
-- Sell industry-specific templates on Unreal Marketplace
+- Freemium model: Free template → Paid custom services
+- Sell premium templates on Unreal Marketplace
 - Luxury Fashion ($199), Automotive ($299), Real Estate ($149), etc.
 - Target: 10,000 sales/year = $1.75M revenue
-- Passive income while sleeping!
 
-**Year 3 Target Revenue:** R$42.8M/year ($7.5M USD)
+**Year 3 Target Revenue:** R$27.9M/year ($4.9M USD)
+
+**CRITICAL:** Hosting is handled by SEPARATE company branch - NOT this project's responsibility!
 
 ---
 
@@ -107,34 +97,36 @@ This is the ACTUAL sequence Fabio is following - ALWAYS reference this:
 
 **Key Understanding:**
 - **Free Template** = Marketing funnel (lead generation!)
-- **Revenue** = Service + Hosting + Premium templates
+- **Revenue** = Service + Premium templates + Consulting
 
 ### How Money is Made:
 
-1. **Client Projects** (Main Revenue): R$200k-3M/year per custom build
+1. **Client Projects** (PRIMARY Revenue - 72%): R$200k-3M/year per custom build
    - Example: Natura hires Fabio for R$800k/year
    - Uses template as foundation, customizes everything
    - Clients pay for expertise, not template
 
-2. **Hosting** (Recurring Revenue): R$5k-50k/month per client
-   - Managed pixel streaming infrastructure
-   - Decentralized PS5 network (97% profit margins!)
-   - Clients need somewhere to run the website
+2. **Annual Maintenance** (RECURRING Revenue - 14%): R$50k-300k/year per client
+   - Updates, bug fixes, technical support
+   - Content updates, seasonal changes
+   - **Note:** Hosting handled by separate company branch
 
-3. **Premium Templates** (Marketplace): $49-299 each
+3. **Premium Templates** (MARKETPLACE - 1%): $49-299 each
    - Production-ready, industry-specific
    - Saves developers weeks of work
    - Passive income stream
 
-4. **Consulting & Training**: $200/hour, courses, workshops
+4. **Consulting & Training** (SUPPLEMENTARY - 4%): $200/hour, courses, workshops
    - Help agencies build immersive sites
    - Teach others the framework
 
-5. **White-Label Licensing**: $50k-200k/year
+5. **White-Label Licensing** (ENTERPRISE - 9%): $50k-200k/year
    - Agencies rebrand template for their clients
    - Technical support included
 
-**The Genius:** Free template is the DEMO that leads to PAID services!
+**The Genius:** Free template is the DEMO that leads to PAID custom development services!
+
+**IMPORTANT:** Hosting infrastructure (PS5 network, pixel streaming servers) is managed by SEPARATE company branch. Immersive Webpages creates the CONTENT/WEBSITES. The other branch handles the HOSTING. We can offer hosting as optional add-on, but it's not our core business.
 
 ---
 
@@ -165,10 +157,11 @@ Blueprint moves camera along spline path
 New frame rendered and streamed back
 ```
 
-### Infrastructure Strategy
-- **Phase 1-4:** PlayStation 5 hardware (R$3,230 vs R$20,000 traditional servers)
-- **Phase 5+:** Decentralized network of miners (FIGIT-style)
-- **Cost Advantage:** 94% cheaper than AWS (pause optimization!)
+### Infrastructure Note
+- **Hosting:** Handled by SEPARATE company branch (not this project!)
+- **This project:** Builds UE5 websites/content only
+- **Hosting can be offered:** As optional add-on through partner branch
+- **Focus:** Website creation, not infrastructure management
 
 ---
 

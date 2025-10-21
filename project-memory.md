@@ -74,19 +74,13 @@
 **Goal:** Scale to 10-30 clients
 **Revenue Target:** R$6M-10M/year
 
-### Phase 5: Decentralized Hosting (Year 2-3) - NOT STARTED
-**Goal:** Launch PS5 network (10X cheaper than AWS)
-**Competitive Moat:** R$177/month vs AWS R$2,820/month
+### Phase 5: Free Template + Premium Marketplace (Year 3) - NOT STARTED
+**Goal:** Platform approach - free template drives paid custom services
+**Revenue Target:** R$400k/year from template sales + more custom project leads
 
-### Phase 6: Free Template Platform (Year 3) - NOT STARTED
-**Goal:** Open-source template + paid hosting
-**Revenue Target:** R$7.5M/year from hosting
+**Ultimate Goal:** R$27.9M/year revenue by Year 3 (custom projects + maintenance + templates + consulting)
 
-### Phase 7: Premium Templates (Year 3-4) - NOT STARTED
-**Goal:** Marketplace revenue
-**Revenue Target:** $1.75M/year from template sales
-
-**Ultimate Goal:** R$42.8M/year revenue by Year 3
+**CRITICAL NOTE:** Original Phase 5-7 included hosting business - THIS WAS REMOVED. Hosting is handled by SEPARATE company branch.
 
 ---
 
@@ -102,16 +96,33 @@
 **Date:** 2025-01-21
 **Decision:** Free template = Marketing funnel (NOT the revenue source!)
 **Revenue Streams:**
-1. Custom client projects (R$200k-3M/year each) - PRIMARY
-2. Managed hosting (R$5k-50k/month recurring) - SECONDARY
-3. Premium templates ($$49-299 each) - TERTIARY
-4. Consulting & training ($200/hour) - SUPPLEMENTARY
-5. White-label licensing ($50k-200k/year) - ENTERPRISE
+1. Custom client projects (R$200k-3M/year each) - PRIMARY (72%)
+2. Annual maintenance (R$50k-300k/year) - RECURRING (14%)
+3. Premium templates ($49-299 each) - MARKETPLACE (1%)
+4. Consulting & training ($200/hour) - SUPPLEMENTARY (4%)
+5. White-label licensing ($50k-200k/year) - ENTERPRISE (9%)
 
-**Rationale:** Free template brings leads who then pay for services/hosting
-**Model:** Like WordPress (free software) + Automattic (paid services) = $500M/year
+**Rationale:** Free template brings leads who then pay for custom development services
+**Model:** Like WordPress (free software) → Leads to paid custom development
 
-### Decision 3: Focus on Epic MegaGrants First
+**IMPORTANT:** Hosting is handled by separate company branch - NOT part of revenue model here
+
+### Decision 3: Hosting is SEPARATE Project
+**Date:** 2025-01-21 (CRITICAL CLARIFICATION)
+**Decision:** Hosting infrastructure (PS5 network, decentralized pixel streaming) is handled by SEPARATE company branch
+**Rationale:**
+- This project = Build and SELL immersive websites (content creation)
+- Other branch = Handle ALL hosting infrastructure (heavy lifting)
+- We create DEMAND for them by building great websites
+- They do the hosting deployment/servers/infrastructure
+**Impact:**
+- Removed Phase 5-7 (hosting business) from roadmap
+- Changed from 7 phases to 5 phases
+- Revenue target adjusted from R$42.8M to R$27.9M (Year 3)
+- Focus is 100% on website creation, NOT infrastructure
+- Hosting can be offered as optional add-on through partner
+
+### Decision 4: Focus on Epic MegaGrants First
 **Date:** 2025-01-21
 **Decision:** Apply to Epic MegaGrants before building full demo
 **Rationale:**
@@ -120,7 +131,7 @@
 - PR value from being MegaGrants recipient
 - Can bootstrap if rejected (Phase 3 happens either way)
 
-### Decision 4: Natura as Primary Demo Target
+### Decision 5: Natura as Primary Demo Target
 **Date:** Oct 2025 (original vision)
 **Decision:** Build Natura sustainability brand demo (not automotive, not real estate)
 **Rationale:**
@@ -275,29 +286,45 @@ Frame rendered & streamed back
 
 ## 📝 DEVELOPMENT LOG
 
-### Session: 2025-01-21
+### Session: 2025-01-21 (Part 1)
 **Accomplishments:**
 - ✅ Created complete Epic MegaGrants application package
 - ✅ Clarified business model (template is marketing, not revenue!)
 - ✅ Removed all InFigital references (this is solo project)
-- ✅ Established 7-phase roadmap with clear milestones
+- ✅ Established initial 7-phase roadmap with clear milestones
 - ✅ Created claude.md (instructions for Claude)
 - ✅ Created project-memory.md (this file)
 - ✅ Defined clear next steps
+- ✅ Set up Git repository and pushed to GitHub
 
 **Key Insights:**
 - Fabio's vision is CLEAR and STRATEGIC (not just creative idea)
-- Decentralized PS5 hosting is the SECRET WEAPON (competitive moat)
 - Free template business model makes perfect sense (freemium funnel)
-- Phase sequencing is smart (validate → scale → platform → products)
+- Phase sequencing is smart (validate → scale → platform)
+
+### Session: 2025-01-21 (Part 2) - MAJOR SCOPE CLARIFICATION
+**Critical Update:**
+- ✅ Removed ALL hosting/PS5 infrastructure from project scope
+- ✅ Restructured roadmap from 7 phases to 5 phases
+- ✅ Updated revenue target from R$42.8M to R$27.9M (Year 3)
+- ✅ Clarified: Hosting is SEPARATE company branch (not this project!)
+- ✅ Updated all documents: FABIO-ROADMAP, claude.md, project-memory.md
+- ✅ Cleaned Epic MegaGrants documents: PROJECT-PLAN, DEMO-SPEC
+- ✅ Verified no remaining PS5/hosting references in application docs
+
+**Key Insight:**
+- This project = Build and SELL immersive websites (content creation)
+- Other branch = Handle hosting infrastructure (heavy lifting)
+- We create DEMAND, they handle SUPPLY
 
 **Decisions Made:**
 - project-memory.md becomes source of truth for current state
 - Claude must read this file at EVERY new session start
 - Updates required after: major tasks, problem resolutions, milestones
+- Decision 3 added: Hosting is separate project (CRITICAL!)
 
 **Questions for Fabio:**
-- None at this time (documentation phase complete)
+- None at this time (scope clarification complete)
 
 **Next Session Should Start With:**
 1. User specifies what to work on next (demo? video? application?)

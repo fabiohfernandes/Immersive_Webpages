@@ -527,9 +527,11 @@ Subtitle appears (accessibility)
 - Adaptive bitrate (adjust quality based on bandwidth)
 
 **Infrastructure:**
-- 4 PS5 render units (can handle 4 concurrent users each = 16 total)
-- Matchmaker routes users to least-loaded unit
-- Auto-scaling: Spin up more units if demand > capacity
+- Pixel streaming servers (managed by separate hosting partner/branch)
+- Matchmaker routes users to available servers
+- Demo hosting for development and testing purposes
+
+**Note:** Full production hosting infrastructure is managed by separate company branch. This demo focuses on content creation and user experience.
 
 ---
 

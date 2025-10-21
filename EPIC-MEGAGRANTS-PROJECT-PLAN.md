@@ -129,11 +129,13 @@ User's Browser
 ```
 
 ### Infrastructure:
-- **Rendering:** PlayStation 5 hardware (R$3,230 vs R$20,000 traditional servers = 84% savings!)
+- **Rendering:** Pixel streaming servers (managed by separate hosting partner/branch)
 - **Matchmaker:** AWS EC2 or custom solution
 - **CDN:** CloudFront for signaling
 - **Database:** User sessions, analytics
 - **Monitoring:** Prometheus + Grafana
+
+**Note:** Full hosting infrastructure is managed by separate company branch. This project focuses on content creation (building immersive websites), not hosting infrastructure.
 
 ### Key Technical Innovations:
 
@@ -311,13 +313,15 @@ Audio ambience change
 |----------|--------|---|---------|
 | **Team Salaries** | $84,000 | 56% | UE5 Dev ($42k/6mo), 3D Artist ($36k/6mo), UI/UX ($15k/3mo), DevOps ($12k/3mo) + $9k buffer |
 | **Demo Production** | $15,000 | 10% | Quixel assets, custom 3D models, audio/music licensing, voice acting |
-| **Infrastructure** | $18,000 | 12% | 4 PS5 render units ($12k), cloud services ($3k/6mo), monitoring tools ($3k) |
+| **Infrastructure** | $18,000 | 12% | Development servers/cloud ($9k), demo hosting ($6k/6mo), monitoring tools ($3k) |
 | **Marketing & Content** | $12,000 | 8% | Website design ($5k), demo video production ($4k), case study/PR ($3k) |
 | **AI/API Services** | $9,000 | 6% | ChatGPT API ($3k/6mo), voice synthesis ($3k), MetaHuman licensing ($3k) |
 | **Software & Tools** | $6,000 | 4% | UE5 plugins, Adobe CC, audio tools, misc software |
 | **Legal & Business** | $3,000 | 2% | Contracts, privacy compliance (LGPD), terms of service |
 | **Contingency** | $3,000 | 2% | Unexpected costs, overruns |
 | **TOTAL** | **$150,000** | **100%** | |
+
+**Note:** Full production hosting infrastructure handled by separate company branch. Budget above covers only demo development and testing.
 
 ### Alternative Budget ($100,000):
 If Epic awards less:
