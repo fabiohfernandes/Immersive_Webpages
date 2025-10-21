@@ -1,7 +1,7 @@
 # PROJECT MEMORY - IMMERSIVE WEBPAGES
 🧠 **Claude's Memory File** - Read this FIRST at every new session/chat/interaction
 
-**Last Updated:** 2025-01-21
+**Last Updated:** 2025-01-21 (Phase 6 & 7 Added)
 **Project Status:** Pre-Application Phase - Epic MegaGrants
 **Current Phase:** Phase 0 - Documentation & Preparation
 
@@ -76,11 +76,31 @@
 
 ### Phase 5: Free Template + Premium Marketplace (Year 3) - NOT STARTED
 **Goal:** Platform approach - free template drives paid custom services
-**Revenue Target:** R$400k/year from template sales + more custom project leads
+**Revenue Target:** R$27.9M/year (custom projects + maintenance + templates + consulting)
 
-**Ultimate Goal:** R$27.9M/year revenue by Year 3 (custom projects + maintenance + templates + consulting)
+### Phase 6: Professional Templates for Epic Fab Marketplace (Year 3-4) - NOT STARTED
+**Goal:** Create and sell professional templates on Epic's Fab marketplace
+**Deliverables:**
+- FREE starter template (marketing funnel)
+- 8 professional templates ($249-399 each)
+- 8 add-on packs ($49-199 each)
+**Revenue Target:** R$16.2M/year by Year 5 (10,000 sales)
 
-**CRITICAL NOTE:** Original Phase 5-7 included hosting business - THIS WAS REMOVED. Hosting is handled by SEPARATE company branch.
+### Phase 7: Hosting Partnerships (Year 4-5) - NOT STARTED
+**Goal:** Partner with hosting companies to provide turnkey pixel streaming solutions
+**Model:** Referral-based (10-20% of hosting fees as passive income)
+**Partners:** PS5 network providers, cloud hosting companies, our separate hosting branch
+**Revenue Target:** R$2.08M/year by Year 5 (referral fees only)
+
+**Ultimate Goal:** R$45.78M/year revenue by Year 5
+- Custom clients: R$20M (44%)
+- Maintenance: R$4M (9%)
+- Fab Templates: R$16.2M (35%)
+- Consulting: R$1M (2%)
+- White-label: R$2.5M (5%)
+- Hosting Referrals: R$2.08M (5%)
+
+**CRITICAL NOTE:** Direct hosting infrastructure is handled by SEPARATE company/branch. This project creates CONTENT (websites + templates) and earns referral fees from hosting partnerships.
 
 ---
 
@@ -317,14 +337,40 @@ Frame rendered & streamed back
 - Other branch = Handle hosting infrastructure (heavy lifting)
 - We create DEMAND, they handle SUPPLY
 
+### Session: 2025-01-21 (Part 3) - PHASE 6 & 7 ADDED
+**Expansion Update:**
+- ✅ Added Phase 6: Professional Templates for Epic Fab Marketplace
+- ✅ Added Phase 7: Hosting Partnerships (referral model)
+- ✅ Roadmap expanded from 5 phases back to 7 phases (different from original)
+- ✅ Updated revenue target from R$27.9M to R$45.78M (Year 5)
+- ✅ Updated all documents: FABIO-ROADMAP, project-memory.md
+
+**Phase 6 Details:**
+- Create 8 professional templates for Epic Fab ($249-399 each)
+- FREE starter template (marketing funnel)
+- 8 add-on packs ($49-199 each)
+- Revenue: R$16.2M/year by Year 5 (10,000 sales)
+
+**Phase 7 Details:**
+- Partner with hosting companies (NOT build infrastructure ourselves!)
+- Referral model: 10-20% of hosting fees (passive income)
+- Partners handle ALL hosting operations
+- Revenue: R$2.08M/year by Year 5 (referral fees only)
+
+**Key Insight:**
+- Three revenue engines: Custom clients + Templates + Hosting referrals
+- Network effects: More templates → More users → More hosting demand
+- We focus on CONTENT creation, partners handle INFRASTRUCTURE
+- Epic Fab marketplace = Massive distribution channel
+
 **Decisions Made:**
 - project-memory.md becomes source of truth for current state
 - Claude must read this file at EVERY new session start
 - Updates required after: major tasks, problem resolutions, milestones
-- Decision 3 added: Hosting is separate project (CRITICAL!)
+- Decision 3 updated: Hosting partnerships (not direct infrastructure)
 
 **Questions for Fabio:**
-- None at this time (scope clarification complete)
+- None at this time (roadmap expansion complete)
 
 **Next Session Should Start With:**
 1. User specifies what to work on next (demo? video? application?)
